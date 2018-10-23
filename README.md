@@ -1,2 +1,2 @@
 # Sudoku-Java
-This is a java sudoku game.
+This is a java sudoku game:)
